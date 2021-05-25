@@ -1,1 +1,1 @@
-##1. Star all the amFOSS repositories
+#1. Star all the amFOSS repositories
