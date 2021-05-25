@@ -1,3 +1,5 @@
 # amfoss-tasks
+## Task 1
+[Star all the amFOSS repositories](https://github.com/Senthil-Lakshmikanth/amfoss-tasks/tree/main/task-1)
 ## Task 6
-[Geddit ](https://github.com/Senthil-Lakshmikanth/amfoss-tasks/tree/main/task-6)
+[Geddit](https://github.com/Senthil-Lakshmikanth/amfoss-tasks/tree/main/task-6)
