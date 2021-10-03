@@ -1,3 +1,4 @@
-### No Java experience is needed to solve this challenge. I run the code in VScode, it showed me where the errors are and was easy to find and rectify. The errors was so easy to find and correct. Like missing of semicolon, brackets in functions. Alao I found some operators are given in wrong place. Instead of multiplication it was division, idk how much more logical errors are left, but I found this and made the code run. Here is my [code](https://github.com/senthil-dot-adhu-idhu/amfoss-tasks/blob/main/task-4/MathQuiz.java) and its screenshot.
+## 4.
+No Java experience is needed to solve this challenge. I run the code in VScode, it showed me where the errors are and was easy to find and rectify. The errors was so easy to find and correct. Like missing of semicolon, brackets in functions. Alao I found some operators are given in wrong place. Instead of multiplication it was division, idk how much more logical errors are left, but I found this and made the code run. Here is my [code](https://github.com/senthil-dot-adhu-idhu/amfoss-tasks/blob/main/task-4/MathQuiz.java) and its screenshot.
 
-https://github.com/senthil-dot-adhu-idhu/amfoss-tasks/blob/main/task-4/MathQuiz.png
+![alt_text](https://github.com/senthil-dot-adhu-idhu/amfoss-tasks/blob/main/task-4/MathQuiz.png)
