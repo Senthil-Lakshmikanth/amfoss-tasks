@@ -1,4 +1,6 @@
 # amfoss-tasks
+## Task 0
+[Install Ubuntu 20.04](https://github.com/senthil-dot-adhu-idhu/amfoss-tasks/tree/main/task-0)
 ## Task 1
 [Star all the amFOSS repositories](https://github.com/Senthil-Lakshmikanth/amfoss-tasks/tree/main/task-1)
 ## Task 2
