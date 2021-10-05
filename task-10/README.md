@@ -1,5 +1,5 @@
 ## 10. CS50
-The CS50 lectures link is currently not opening. But also I have completed pset 1 and 2.
+I have completed pset 1 and 2. But the CS50 lectures link is currently not opening.
 
 Since Iam not comfortaable with CS50 IDE, I used a normal online C compiler for writing the codes.
 I think the main aim will be to write code and understand the logic.
