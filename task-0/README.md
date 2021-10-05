@@ -4,7 +4,7 @@ Blog kandipa eludhanuma :smile:
 I will tell one of the major error I faced whiile installing Ubuntu.
 In bios, in Advanced Option tab, under SATA Operation, there will be two modes:
   
-  #^  RAID
+  # RAID
   AHCI
 
 By default while using Windows it will be in RAID mode, and RAID mode doesnt work for Ubuntu. 
