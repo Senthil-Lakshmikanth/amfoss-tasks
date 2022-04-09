@@ -1,19 +1,27 @@
 # amfoss-tasks
-## Task 0
+## Task 0 - ( Completed )
 [Install Ubuntu 20.04](https://github.com/senthil-dot-adhu-idhu/amfoss-tasks/tree/main/task-0)
-## Task 1
+## Task 1 - ( Completed )
 [Star all the amFOSS repositories](https://github.com/Senthil-Lakshmikanth/amfoss-tasks/tree/main/task-1)
-## Task 2
+## Task 2 - ( Completed )
 [Register your nick in IRC Freenode](https://github.com/Senthil-Lakshmikanth/amfoss-tasks/tree/main/task-2)
-## Task 4
+## Task 3 - ( Half Completed )
+[Programming](https://github.com/senthil-dot-adhu-idhu/amfoss-tasks/tree/main/task-3)
+## Task 4 - ( Completed )
 [Debugging Derbies](https://github.com/senthil-dot-adhu-idhu/amfoss-tasks/tree/main/task-4)
-## Task 6
+## Task 5 - ( Not Attempted )
+Rustic Scraper
+## Task 6 - ( Completed )
 [Geddit](https://github.com/Senthil-Lakshmikanth/amfoss-tasks/tree/main/task-6)
-## Task 8
+## Task 7 - ( Working on it )
+Ubiquitous UI
+## Task 8 - ( Completed )
 [Sir Perceval’s quest](https://github.com/senthil-dot-adhu-idhu/amfoss-tasks/tree/main/task-8)
-## Task 10
+## Task 9 - ( Not Working )
+Spammer_Spaghetti
+## Task 10 - ( Half Completed )
 [CS50](https://github.com/senthil-dot-adhu-idhu/amfoss-tasks/tree/main/task-10)
-## Task 11
+## Task 11 - ( Completed )
 [Poster Design](https://github.com/senthil-dot-adhu-idhu/amfoss-tasks/blob/main/task-11/README.md)
-## Task 14
+## Task 14 - ( Completed )
 [Bandit](https://github.com/senthil-dot-adhu-idhu/amfoss-tasks/tree/main/task-14)
