@@ -1,5 +1,4 @@
 ## 0. Install Ubuntu 20.04
-Blog kandipa eludhanuma :smile:
 
 I will tell one of the major error I faced whiile installing Ubuntu.
 In bios, in Advanced Option tab, under SATA Operation, there will be two modes:
