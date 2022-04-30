@@ -29,7 +29,8 @@ Spammer_Spaghetti
 
 ## 2. Begin your journey with Linux and Git
 ```mkdir Coordinates-Location```
-```cd Coordinates-Location/
+
+```cd Coordinates-Location/```
 
 mkdir North
 cd North/
