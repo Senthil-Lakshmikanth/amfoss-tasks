@@ -33,11 +33,12 @@ Spammer_Spaghetti
 ```
 mkdir Coordinates-Location
 ```
-
-
+```
 cd Coordinates-Location/
-
+```
+```
 mkdir North
+```
 cd North/
 gedit NDegree.txt 
 gedit NMinutes.txt
