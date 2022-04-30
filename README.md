@@ -30,7 +30,9 @@ Spammer_Spaghetti
 ## 2. Begin your journey with Linux and Git
 
 
-```mkdir Coordinates-Location```
+```
+mkdir Coordinates-Location
+```
 
 
 cd Coordinates-Location/
