@@ -56,4 +56,3 @@ mv EastCoordinate.txt ~/Coordinates-Location
 cd -
 mv EastCoordinate.txt East.txt
 cat North.txt East.txt > Location-Coordinate.txt
-```
