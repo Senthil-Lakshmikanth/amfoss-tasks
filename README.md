@@ -33,7 +33,7 @@ Spammer_Spaghetti
 ```mkdir Coordinates-Location```
 
 
-```cd Coordinates-Location/```
+cd Coordinates-Location/
 
 mkdir North
 cd North/
