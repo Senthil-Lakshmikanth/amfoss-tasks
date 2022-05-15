@@ -3,7 +3,6 @@
 ### page-1 :
 
 - #### Changing the image format, adding buttons was easy. Linking page 2 to the `Next` button was little harder !
-![unmaintained](http://img.shields.io/badge/Next.png)
 
 ---
 
