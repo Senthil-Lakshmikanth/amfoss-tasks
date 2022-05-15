@@ -3,12 +3,15 @@
 ### page-1 :
 
 - #### Changing the image format, adding buttons was easy. Linking page 2 to the `Next` button was little harder !
+![unmaintained](http://img.shields.io/badge/Next.png)
 
 ---
 
 ### page-2 :
 
 - #### w3schools was very helpful while doing this page. All commands were there as such.
+
+---
 
 ### page-3 :
 
