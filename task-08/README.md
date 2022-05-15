@@ -1,11 +1,6 @@
 ## 8. JSExplorer
 
-#### page-1 :
-
-1.  git clone `https://github.com/amfoss/tasks.git` then `cd task-8`
-2.  Download and setup Node.JS using: [https://nodejs.org/]
-3.  Install the npm packages using `npm install` [https://npmjs.com/]
-4.  To run in localhost use `npm start` [https://en.wikipedia.org/wiki/Localhost]
+### page-1 :
 
 ---
 
