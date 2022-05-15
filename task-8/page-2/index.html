@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <link rel="stylesheet" href="css/style.css" />
+    <title>JS</title>
+  </head>
+  <body>
+    <!--On click of Button-1 store something in localStorage-->
+    <a href="https://media.tenor.com/images/59f5461ff284d309f71e27e70a5927c0/tenor.png" download>
+      <button class="button">Button-1</button>
+    </a>
+    
+    <!--On click of Button-2 show a popup with current time-->
+    <button class="button" onclick="window.alert(new Date().toLocaleTimeString())">Button-2</button>
+
+    <!--On click of Button-3 change the background-->
+    <button class="button" onclick="changebackground()">Button-3</button>
+    <script>
+      function changebackground()
+      {
+        document.body.style.background = "url('images/beat.gif') no-repeat center";
+        document.body.style.backgroundSize = '1080px 720px';
+      }
+    </script>
+
+    <!--On click of Button-4 refresh the page-->
+    <button class="button" onclick="window.location.reload()">Button-4</button>
+
+    <!--On click of Button-5 open a new window-->
+    <button class="button" onclick="window.open('https://github.com/senthil-dot-adhu-idhu')">Button-5</button>
+    
+    <!--On click of Button-6 spam the console with 'I did it'-->
+    <button class="button" onclick=spamconsole()>Button-6</button>
+    <script>
+      function spamconsole()
+      {
+        while(true)
+        {
+          console.log("I did it");
+        }
+      }
+    </script>
+    <!--set form action-->
+    <form action="../page-3/chart.html">
+      <button class="button">Next</button>
+    </form>
+  </body>
+</html>
