@@ -1,6 +1,6 @@
 ## 3. Programming
 
-### page-1 :
+### The game I must lose :
 
 - #### Changing the image format, adding buttons was easy. Linking page 2 to the `Next` button was little harder !
 
