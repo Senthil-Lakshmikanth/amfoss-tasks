@@ -2,4 +2,4 @@
 
 [Link](https://senthil-dot-adhu-idhu.github.io/) to my webpage 
 
-[Link](https://github.com/senthil-dot-adhu-idhu/senthil-dot-adhu-idhu.github.io) to the senthil-dot-adhu-idhu.github.io repository 
+Link to the [senthil-dot-adhu-idhu.github.io](https://github.com/senthil-dot-adhu-idhu/senthil-dot-adhu-idhu.github.io) repository 
