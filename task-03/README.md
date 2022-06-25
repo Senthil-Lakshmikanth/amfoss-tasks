@@ -6,7 +6,7 @@
 [Lisa and Shelves]()|||:heavy_check_mark:
 [Bumper Cars]()||&cross;||
 [Fight's On]()||&cross;||
-[Aver_Max]()|Completed|:heavy_check_mark:
+[Aver_Max]()|:heavy_check_mark:||
 [Problem Solvers vs Developers]()|:heavy_check_mark:|:heavy_check_mark:
 [Sandesh and Strings]()||&cross;||
 [Journey to Regionals]()|Terminated due to timeout|:heavy_check_mark:
