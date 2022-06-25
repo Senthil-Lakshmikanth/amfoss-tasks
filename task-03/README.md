@@ -7,7 +7,7 @@
 [Bumper Cars]()||&cross;||
 [Fight's On]()||&cross;||
 [Aver_Max]()|:heavy_check_mark:||
-[Problem Solvers vs Developers]()|:heavy_check_mark:|:heavy_check_mark:
+[Problem Solvers vs Developers]()|||:heavy_check_mark:
 [Sandesh and Strings]()||&cross;||
 [Journey to Regionals]()|Terminated due to timeout|:heavy_check_mark:
 [Building Towers 1]()|Completed|:heavy_check_mark:
