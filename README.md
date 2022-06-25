@@ -20,6 +20,6 @@
 [Task-14](https://github.com/senthil-dot-adhu-idhu/amfoss-tasks/tree/main/task-14)|Bandit|Completed
 [Task-15]()|Project Euler|Not Completed
 
-## My views about the tasks
+### My views about the tasks
 
-## My Introduction
+### My Introduction
