@@ -3,7 +3,7 @@
 **Problem Name**|**Done**|**Unattempted**|**Timeout**
 ----------------|--------|---------------|-----------
 [The game I must lose]()|:heavy_check_mark:|
-[Lisa and Shelves]()|Terminated due to timeout|:heavy_check_mark:
+[Lisa and Shelves]()||:white_check_mark:
 [Bumper Cars]()|Not Completed|:heavy_check_mark:
 [Fight's On]()|Not Completed|:heavy_check_mark:
 [Aver_Max]()|Completed|:heavy_check_mark:
