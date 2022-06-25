@@ -1,8 +1,8 @@
 ## 3. Programming
 
 **Problem Name**|**Done**|**Unattempted**|**Timeout**
-----------------|-----------------
-[The game I must lose]|:heavy_check_mark:
+----------------|------------------------|-----------
+[The game I must lose]|:heavy_check_mark:|
 [Lisa and Shelves]|Terminated due to timeout
 [Bumper Cars]()|Not Completed
 [Fight's On]()|Not Completed
