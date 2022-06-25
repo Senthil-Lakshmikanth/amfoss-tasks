@@ -13,11 +13,8 @@
 [Building Towers 1]()|:heavy_check_mark:||
 [Ram and Gifts]()|||:heavy_check_mark:
 
-
-
-
 Except the 3 unattempted, the rest are ☑️ Correct 😢
 
-Only few test cases with very big numbers terminated due to timeout. I even tested the codes against custom input, The logic is 💯 Correct
+Only few test cases with very big numbers terminated due to timeout. I even tested the codes against custom input, The logic is 💯 
 
-I just dont know how to optimise the code, but I will make sure I will study about time complexities in upcoming days and optimise these codes.
+I just dont know how to optimise the code, but I will make sure I will study about time complexity in upcoming days and optimise these codes.
