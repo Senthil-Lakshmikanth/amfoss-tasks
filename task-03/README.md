@@ -1,17 +1,6 @@
 ## 3. Programming
 
-### The game I must lose :
-
-- #### Changing the image format, adding buttons was easy. Linking page 2 to the `Next` button was little harder !
-
----
-
-### page-2 :
-
-- #### w3schools was very helpful while doing this page. All commands were there as such.
-
----
-
-### page-3 :
-
-- #### This was the easiest among all. Very basic knowledge about JSON data is enough. Getting the value of JSON file and assigning it to variables of graph. The code for graph was already given.
+**Problem Name**|**Status**
+----------------|-----------------
+[The game I must lose](https://github.com/Akshatji800/amfoss-tasks-demo/tree/master/task-00)|Completed
+[Lisa and Shelves]()
