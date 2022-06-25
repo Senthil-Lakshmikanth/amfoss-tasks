@@ -4,8 +4,8 @@
 ----------------|--------|---------------|-----------
 [The game I must lose]()|:heavy_check_mark:|
 [Lisa and Shelves]()|||:white_check_mark:
-[Bumper Cars]()|||&cross;||
-[Fight's On]()|||&cross;||
+[Bumper Cars]()||&cross;||
+[Fight's On]()||&cross;||
 [Aver_Max]()|Completed|:heavy_check_mark:
 [Problem Solvers vs Developers]()|:heavy_check_mark:|:heavy_check_mark:
 [Sandesh and Strings]()|Not Completed|:heavy_check_mark:
