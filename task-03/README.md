@@ -12,3 +12,5 @@
 [Journey to Regionals]()|||:heavy_check_mark:
 [Building Towers 1]()|:heavy_check_mark:||
 [Ram and Gifts]()|||:heavy_check_mark:
+
+Except the 3, the rest of the codes are ☑️ Correct 💯 😿 😢
