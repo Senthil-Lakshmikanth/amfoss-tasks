@@ -27,4 +27,4 @@ Senthil Lakshmikanth B.E, part-time Coder and Full-time Mobile Phone user. Dedic
 
 Others : `Man, I thought u have some maturity, but don't u think this is childish? `
 
-Me     : Trying to realize what is life, gain maturity, and started to study
+Me              : Trying to realize what is life, gain maturity, and started to study
