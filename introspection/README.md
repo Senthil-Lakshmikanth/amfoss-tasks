@@ -11,13 +11,7 @@ I assure you I will never make U guys regret choosing me.
 `Never gonna let you down`
 
 ### What is your plan for the next 6 months?
-I was an aimless, hopeless person till now
-but now on, from next semester Iam thinking to work hard, get a good CGPA.
-
-
-
-
-
+I was an aimless, hopeless person till now but from now on, from next semester I am thinking to work hard and getting a good CGPA.
 
 Apart from the academics if I get into the club, I can also improve my coding and other skills side by side which I think will be useful during placements.
 
