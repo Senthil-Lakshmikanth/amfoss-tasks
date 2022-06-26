@@ -16,5 +16,6 @@ I was an aimless, hopeless person till now but from now on, from next semester 
 Apart from the academics if I get into the club, I can also improve my coding and other skills side by side which I think will be useful during placements.
 
 ### How would you contribute back to the club?
+Iam a noob with no experiece and there are already many pros in the club. Iam no one infront of them when it comes to contributing. But whatever task the club assign to me, I will give my best 💯
 
 ### Do you have any feedback for the selection process?
