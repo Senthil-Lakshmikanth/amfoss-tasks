@@ -21,7 +21,10 @@
 [Task-15]()|Project Euler|Not Completed
 
 ## My views about the tasks
-All the tasks are really interesting, especially that Aerglo Mars ( every photo of Mars is so amazing ) and Flutter are my favo. I enjoyed doing these tasks. I have also included video templates ( kind of video-meme ) while doing the 6th and 9th tasks.  
+All the tasks are really interesting, especially that Aerglo Mars ( every photo of Mars is so amazing ) and Flutter are my favo. 
+
+I enjoyed doing these tasks. I have also included video templates ( kind of video-meme ) while doing the 6th and 9th tasks.  
+
 ## My Introduction
 Senthil Lakshmikanth B.E, part-time Coder and Full-time Mobile Phone user. Dedicated to doing things that I like. 
 
