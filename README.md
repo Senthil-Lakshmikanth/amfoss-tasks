@@ -9,7 +9,7 @@
 [Task-03](https://github.com/senthil-dot-adhu-idhu/amfoss-tasks/tree/main/task-03)|Programming|Completed Seven Questions
 [Task-04](https://github.com/senthil-dot-adhu-idhu/amfoss-tasks/tree/main/task-04)|Aerglo Mars|Completed
 [Task-05](https://github.com/senthil-dot-adhu-idhu/amfoss-tasks/tree/main/task-05)|Let me C|Completed
-[Task-06]()|Flutter app|Not Completed
+[Task-06](https://github.com/senthil-dot-adhu-idhu/amfoss-tasks/tree/main/task-06)|Flutter app|Completed
 [Task-07]()|Rich Scraper|Not Completed
 [Task-08](https://github.com/senthil-dot-adhu-idhu/amfoss-tasks/tree/main/task-08)|JSExplorer|Completed
 [Task-09](https://github.com/senthil-dot-adhu-idhu/amfoss-tasks/tree/main/task-09)|Personal Website|Completed
