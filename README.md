@@ -25,6 +25,6 @@ All the tasks are really interesting, especially that Aerglo Mars ( every photo 
 ## My Introduction
 Senthil Lakshmikanth B.E, part-time Coder and Full-time Mobile Phone user. Dedicated to doing things that I like. 
 
-Others : " Man, I thought u have some maturity, but don't u think this is childish? " 
+Others : `Man, I thought u have some maturity, but don't u think this is childish? `
 
 Me     : `Trying to realise what is life, gain maturity and started to study`
