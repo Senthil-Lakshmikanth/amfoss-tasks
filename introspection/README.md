@@ -21,4 +21,6 @@ Iam a noob with no experiece and there are already many pros in the club. Iam no
 But whatever task the club assign to me, I will give my best 💯
 
 ### Do you have any feedback for the selection process?
-The pipeline is really well organised. Iam just little nervous about the interview process. ( coz of my frnds : "they r gonna screw u asking ques mela ques and all the technical stuffs. Eventhough U do all these tasks by ur own, u r gonna fail in the interview round, so dont struggle so much" ) 
+The pipeline is really well organised. 
+
+Iam just little nervous about the interview process. ( coz of my frnds : `"they r gonna screw u asking ques mela ques and all the technical stuffs. Eventhough U do all these tasks by ur own, u r gonna fail in the interview round, so dont struggle so much" ) `
