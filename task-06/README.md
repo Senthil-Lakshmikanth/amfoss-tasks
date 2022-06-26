@@ -4,7 +4,7 @@ When I was googling about the task, I got this [website](https://pub.dev/package
 
 Adding Finishing touch :sparkles: in my style, at the last Welcoming page, with reference of this [video](https://www.youtube.com/watch?v=urnrIW-eaX4) I created a hyperlink in flutter. 
 
-Type the below command in terminal and instaall [`url_launcher`](https://pub.dev/packages/url_launcher) package before running the code ❗
+Type the below command in terminal and instaall [`url_launcher`](https://pub.dev/packages/url_launcher) package before running my code ❗
 ````
 $ flutter pub add url_launcher
 ````
