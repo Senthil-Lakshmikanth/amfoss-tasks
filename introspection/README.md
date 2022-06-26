@@ -25,6 +25,6 @@ The pipeline is really well organised.
 
 Iam just little nervous about the interview process. ( coz of my frnds 🤦‍♂️ )
 
-They : `they r gonna screw u asking ques mela ques and all the technical stuffs.`
+They : `they r gonna screw u asking ques + ques and all the technical stuffs.`
 
-`Eventhough U do all these tasks by ur own, u r gonna fail in the interview round, so dont struggle so much` 
+`Eventhough U do all these tasks by ur own, u r gonna fail in the interview round, so dont struggle so much` ( PS : Nalla nanbargal )
