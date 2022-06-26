@@ -10,8 +10,6 @@ I assure you I will never make U guys regret choosing me.
 
 `Never gonna let you down`
 
-
-
 ### What is your plan for the next 6 months ?
 I was an aimless, hopeless person till now but from now on, from next semester I am thinking to work hard and getting a good CGPA.
 
