@@ -1,6 +1,6 @@
 ## 6. Flutter based UI task
 
-https://user-images.githubusercontent.com/73293634/175830707-b328878a-a23e-4927-bc0f-f684e547a7ee.mp4
+https://user-images.githubusercontent.com/73293634/175831142-6d603562-685f-46c5-8fea-c8909947cbd6.mp4
  
 When I was googling about the task, I got this [website](https://pub.dev/packages/introduction_screen/example). I found both amFOSS task and this were more similar, So I used this Source Code and did few changes to it.
 
