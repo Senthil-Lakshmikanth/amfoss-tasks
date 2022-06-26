@@ -159,7 +159,7 @@ class HomePage extends StatelessWidget {
                         style: linkText,
                         text: "Click Here",
                         recognizer: TapGestureRecognizer()..onTap = () async {
-                          var url = "https://www.youtube.com/watch?v=IwRcqxtikxU";
+                          var url = "https://senthil-dot-adhu-idhu.github.io/";
                           if (await canLaunch(url)){
                             await launch(url);
                           } else{
